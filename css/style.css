@@ -1,0 +1,143 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+.container {
+	width: 1140px;
+	margin: 0 auto;
+}
+<header {
+	width: 100%;
+	float:left;
+}
+
+section {
+	width: 100%;
+	float: left;
+}
+
+.main {
+	background-color: #dadada;
+}
+
+.main-two {
+	padding: 38px;
+}
+/*---------------------teader end-------------------*/
+
+
+
+/*---------------------patr 2 start-------------------*/
+
+.part-two-main {
+	background-image: url(../img/image.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.main-three {
+	text-align: center;
+	padding-top: 170px;
+	padding-bottom: 170px;
+}
+
+.main-three h1 {
+	font-size: 100px;
+    color: #fff;
+    letter-spacing: 3px;
+}
+
+.main-three span {
+	border: 2px solid blue;
+    display: block;
+    width: 36%;
+    margin:59px auto;
+}
+
+.main-three p {
+    color: #fff;
+    font-size: 24px;
+}
+.main-three button {
+    margin-top: 40px;
+    padding: 15px 19px;
+    font-size: 30px;
+    background-color: transparent;
+    color: black;
+    border:2px solid #33a0f7e8;
+    transition: 0.9s ease;
+    border-radius: 5px;
+}
+
+.main-three button:hover {
+	background-color: blue;
+	    cursor: pointer;
+}
+
+/*---------------------patr 2 end-------------------*/
+
+
+/*---------------------patr 3 start-------------------*/
+
+.main-four {
+	background-color: #dadada;
+}
+
+.main-four-one {
+	text-align: center;
+}
+
+.main-four-one h3 {
+    font-size: 33px;
+    padding-top: 87px;
+}
+
+.main-four-one p {
+    padding-top: 26px;
+    font-size: 28px;
+    padding-bottom: 65px;
+}
+
+/*---------------------patr 3 end-------------------*/
+
+/*---------------------patr 4 start-------------------*/
+
+.twenty {
+	background-color: white;
+    margin-top: 80px;
+    margin-bottom: 45px;
+}
+
+.twenty h1 {
+    font-size: 22px;
+    margin: 25px 0;
+    color: #2d3950;
+}
+
+.twenty  h3 {  
+    color: #777777;
+    font-size: 20px;
+
+}
+
+.twenty-one {
+	width: 33.33%;
+	float: left;
+	text-align: center;
+}
+
+.twenty-two {
+	width: 33.33%;
+	float: left;
+	text-align: center;
+}
+.twenty-theree {
+	width: 33.33%;
+	float: left;
+	text-align: center;	
+}
+
+/*---------------------patr 4 end-------------------*/
+
+/*---------------------patr 5 start-------------------*/
